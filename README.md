@@ -1,4 +1,4 @@
-### Olá! EU sou a Ianca Abreu 👋
+### Olá! Eu sou a Ianca Abreu 👋
 
 
 - Analista de Dados e Business Intelligence, com experiência em desenvolvimento de Dashboards com insigths relevantes para tomada de decisões.
