@@ -14,7 +14,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="ianca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ianca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ianca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vs_code/vs_code-original.svg">
+  <img align="center" alt="iancavscode" height="30" width="40" src="https://raw.githubsercontent.com/devicons/devicon/master/icons/vscode/vscode.svg">
         
     
 </div>
