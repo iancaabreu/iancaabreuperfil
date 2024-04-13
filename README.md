@@ -4,7 +4,7 @@
 - Analista de Dados e Business Intelligence, com experiência em desenvolvimento de Dashboards com insigths relevantes para tomada de decisões.
 - Competências:
 - Extração, Trasformação, Modelagem de dados e Apresentação gráfica.
-- Programação na linguagem Python, DAX, e SQL
+- Programação na linguagem Python, DAX, R, e SQL
 - EstatÍstica para análise de dados
 - Estou sempre em busca de aprendizado e oportunidade para aplicar os conhecimentos adquiridos.
   
